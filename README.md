@@ -11,6 +11,7 @@
 * La figura debe ser cargada en el centro de la pantalla y debe ser completamente visible.
 
 ## Snowman.jpeg
-
+![snowman](https://user-images.githubusercontent.com/43117675/92309783-ad82fe80-ef65-11ea-852b-ae37caab10fd.jpeg)
 
 ## Snowman.bmp
+![snowman](https://user-images.githubusercontent.com/43117675/92309799-c2f82880-ef65-11ea-86bb-bf17b757dbd1.png)
